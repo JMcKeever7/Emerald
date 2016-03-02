@@ -1,0 +1,8 @@
+
+name="EmeraldWizard"
+url="https://archive.org/download/EmeraldBuild/EmeraldBuild.zip"
+img="https://github.com/JMcKeever7/Emerald/blob/4d40246823b9d159902796844abb49eea1be7d05/2nJTpkm.png"
+fanart="https://github.com/JMcKeever7/Emerald/blob/4d40246823b9d159902796844abb49eea1be7d05/2nJTpkm.png"
+description="Build from JMcK, showing off Irelands beauty"
+
+
